@@ -1,0 +1,31 @@
+{
+  "brand_name": "CodeFix.IT",
+  "tagline": "Diabeł tkwi w kodzie",
+  "tone_of_voice": "Ekspercki ale przystępny",
+  "formality_level": "medium",
+  "personality_traits": [
+    "profesjonalny",
+    "pomocny",
+    "konkretny"
+  ],
+  "forbidden_words": [
+    "innowacyjny",
+    "dynamiczny",
+    "game-changer"
+  ],
+  "preferred_phrases": [],
+  "emoji_policy": "minimal",
+  "max_emojis_per_post": 3,
+  "hashtag_policy": "minimal",
+  "max_hashtags": 3,
+  "target_audience": "Senior Developers, Tech Leads",
+  "audience_pain_points": [],
+  "audience_goals": [],
+  "preferred_length": {
+    "LinkedIn": "medium",
+    "Twitter": "short",
+    "Facebook": "medium"
+  },
+  "created_at": null,
+  "updated_at": "2026-01-31T11:18:23.954606"
+}

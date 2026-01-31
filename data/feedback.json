@@ -1,0 +1,35 @@
+{
+  "positive": [
+    {
+      "content_preview": "😊 Kiedy Agile staje się rutyną? 🤔\n\nPamiętam projekt, który miał być \"agile\". Wszystko wyglądało idealnie - sprinty, retrospekcje, ciągłe dostarczanie wartości... ale w praktyce okazało się, że jesteśm...",
+      "platform": "Facebook",
+      "timestamp": "2026-01-31T11:47:35.820868",
+      "metadata": {}
+    },
+    {
+      "content_preview": "✨️ Czy w branży IT mówimy prawdę? 💡\n📌 70% seniorów developerów zgadza się, że unikamy trudnych tematów. 🤔\n💡 Ale otwarta dyskusja może przynieść nam 300% więcej pomysłów i rozwiązań. 🔥\n📌 Przykład? W Co...",
+      "platform": "Instagram",
+      "timestamp": "2026-01-31T11:47:39.707988",
+      "metadata": {}
+    },
+    {
+      "content_preview": "✨🚨 Czy AI zabija kreatywność w programowaniu? 🤯\n70% kodu generowanego przez AI jest błędne lub nieoptymalne. 🚨\n\n📌 Ludzka kreatywność i doświadczenie są niezastąpione w tworzeniu wysokiej jakości kodu....",
+      "platform": "Instagram",
+      "timestamp": "2026-01-31T15:55:10.313643",
+      "metadata": {}
+    },
+    {
+      "content_preview": "😊 Kiedy Agile staje się rutyną, a AI nie zastępuje ludzkiej kreatywności? 🤔\n\nPamiętam projekt, na którym pracowałem kilka lat temu. AI miało pomóc w automatyzacji testów, ale w praktyce okazało się, ż...",
+      "platform": "Facebook",
+      "timestamp": "2026-01-31T15:55:18.526785",
+      "metadata": {}
+    }
+  ],
+  "negative": [],
+  "adjustments": [],
+  "stats": {
+    "total_positive": 4,
+    "total_negative": 0,
+    "total_adjustments": 0
+  }
+}
